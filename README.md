@@ -119,7 +119,7 @@ Cada projeto possui seu próprio README com:
 
 **Ciência da Computação — Mackenzie**
 
-🔗 [LinkedIn](www.linkedin.com/in/marcelo-prass-cambé-282633247)
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-prass-camb%C3%A9-282633247/)
 
 🔗 [GitHub](SEU_GITHUB)
 
