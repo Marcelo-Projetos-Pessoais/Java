@@ -121,6 +121,6 @@ Cada projeto possui seu próprio README com:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-prass-camb%C3%A9-282633247/)
 
-🔗 [GitHub](SEU_GITHUB)
+🔗 [GitHub](https://github.com/Marcelo-Projetos-Pessoais)
 
 📧 [E-mail](marcelocambe2005@gmail.com)
